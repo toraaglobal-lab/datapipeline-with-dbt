@@ -1,1 +1,76 @@
-site_name: My Docs
+site_name: Building a Data Pipeline with dbt
+
+repo_url: https://github.com/toraaglobal-lab/datapipeline-with-dbt
+repo_name: toraaglobal-lab/datapipeline-with-dbt
+edit_uri: edit/main/docs/
+
+
+theme:
+  name: material
+
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+   
+ 
+
+
+  icon:
+    repo: fontawesome/brands/git-alt 
+    edit: material/pencil 
+    view: material/eye
+
+
+
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: light blue
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: light blue
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+
+plugins:
+
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+
+
+copyright: Copyright &copy; 2024  Tajudeen Abdulazeez 
+
+
+nav:
+  - Home: index.md 
+  - DBT Document: datapipeline/index.html

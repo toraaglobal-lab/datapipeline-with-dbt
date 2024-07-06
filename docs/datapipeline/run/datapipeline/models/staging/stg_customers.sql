@@ -1,0 +1,12 @@
+
+  create view "demo"."public"."stg_customers__dbt_tmp"
+    
+    
+  as (
+    select
+     "ID" as customer_id,
+        "FIRST_NAME" as first_name,
+        "LAST_NAME" as last_name
+
+from "demo"."public"."customers"
+  );
