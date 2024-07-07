@@ -1,8 +1,51 @@
-# datapipeline-with-dbt
+***
+### Buiding a Data Pipeline with dbt
+***
+[![](./docs/datapipeline-with-dbt/Slide1.jpeg)](https://youtu.be/3Hi4yXGihro)
 
 
-<object data="./docs/datapipeline-with-dbt.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./docs/datapipeline-with-dbt.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./docs/datapipeline-with-dbt.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+***
+![](./docs/datapipeline-with-dbt/Slide2.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide3.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide4.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide5.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide6.jpeg)
+
+***
+![](./docs/datapipeline-with-dbt/Slide7.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide8.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide9.jpeg)
+
+*** 
+
+![](./docs/datapipeline-with-dbt/Slide10.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide11.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide12.jpeg)
+
+***
+
+![](./docs/datapipeline-with-dbt/Slide13.jpeg)
