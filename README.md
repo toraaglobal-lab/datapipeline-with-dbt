@@ -1,5 +1,5 @@
 ***
-### Buiding a Data Pipeline with dbt
+### [Link to the youtube video](https://youtu.be/3Hi4yXGihro)
 ***
 [![](./docs/datapipeline-with-dbt/Slide1.jpeg)](https://youtu.be/3Hi4yXGihro)
 
