@@ -72,5 +72,5 @@ copyright: Copyright &copy; 2024  Tajudeen Abdulazeez
 
 
 nav:
-  - Home: index.md 
+  - Data Pipeline with dbt: index.md 
   - DBT Document: datapipeline/index.html
